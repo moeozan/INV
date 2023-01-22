@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bcd2c394f1cea54b8c0316ec6e59e5c, type: 3}
+  m_Name: Caki
+  m_EditorClassIdentifier: 
+  itemInfo:
+    Type: 0
+    Name: Caki
+    Description: gucludur ha
+    sprite: {fileID: 21300000, guid: 5fd50594014b70e48bd6993443d46b32, type: 3}
+  Type: 1
+  attack: 15
+  defense: 0
+  damage: 10
+  level: 5
